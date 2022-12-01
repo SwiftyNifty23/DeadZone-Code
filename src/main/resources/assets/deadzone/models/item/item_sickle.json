@@ -1,0 +1,236 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"sickle": "deadzone:models/blocks/weapon/melee/sickle"
+	},
+	"elements": [
+		{
+			"name": "sickle",
+			"from": [7.5, 0, 7.25],
+			"to": [9, 5, 8.75],
+			"faces": {
+				"north": {"uv": [9, 11, 7.5, 16], "texture": "#sickle"},
+				"east": {"uv": [9, 11, 8.5, 16], "texture": "#sickle"},
+				"south": {"uv": [7.5, 11, 9, 16], "texture": "#sickle"},
+				"west": {"uv": [7.5, 11, 8, 16], "texture": "#sickle"},
+				"up": {"uv": [7.5, 11.5, 9, 11], "texture": "#sickle"},
+				"down": {"uv": [7.5, 15.5, 9, 16], "texture": "#sickle"}
+			}
+		},
+		{
+			"name": "sickle1",
+			"from": [7.5, 5, 7.75],
+			"to": [9, 7, 8.25],
+			"faces": {
+				"north": {"uv": [9, 9, 7.5, 11], "texture": "#sickle"},
+				"east": {"uv": [9, 9, 8.5, 11], "texture": "#sickle"},
+				"south": {"uv": [7.5, 9, 9, 11], "texture": "#sickle"},
+				"west": {"uv": [7.5, 9, 8, 11], "texture": "#sickle"},
+				"up": {"uv": [7.5, 9.5, 9, 9], "texture": "#sickle"},
+				"down": {"uv": [7.5, 10.5, 9, 11], "texture": "#sickle"}
+			}
+		},
+		{
+			"name": "sickle2",
+			"from": [8, 7, 7.75],
+			"to": [10.5, 7.5, 8.25],
+			"faces": {
+				"north": {"uv": [10.5, 8.5, 8, 9], "texture": "#sickle"},
+				"east": {"uv": [10.5, 8.5, 10, 9], "texture": "#sickle"},
+				"south": {"uv": [8, 8.5, 10.5, 9], "texture": "#sickle"},
+				"west": {"uv": [8, 8.5, 8.5, 9], "texture": "#sickle"},
+				"up": {"uv": [8, 9, 10.5, 8.5], "texture": "#sickle"},
+				"down": {"uv": [8, 8.5, 10.5, 9], "texture": "#sickle"}
+			}
+		},
+		{
+			"name": "sickle3",
+			"from": [8.5, 7.5, 7.75],
+			"to": [11.5, 8, 8.25],
+			"faces": {
+				"north": {"uv": [11.5, 8, 8.5, 8.5], "texture": "#sickle"},
+				"east": {"uv": [11.5, 8, 11, 8.5], "texture": "#sickle"},
+				"south": {"uv": [8.5, 8, 11.5, 8.5], "texture": "#sickle"},
+				"west": {"uv": [8.5, 8, 9, 8.5], "texture": "#sickle"},
+				"up": {"uv": [8.5, 8.5, 11.5, 8], "texture": "#sickle"},
+				"down": {"uv": [8.5, 8, 11.5, 8.5], "texture": "#sickle"}
+			}
+		},
+		{
+			"name": "sickle4",
+			"from": [9, 8, 7.75],
+			"to": [12, 8.5, 8.25],
+			"faces": {
+				"north": {"uv": [12, 7.5, 9, 8], "texture": "#sickle"},
+				"east": {"uv": [12, 7.5, 11.5, 8], "texture": "#sickle"},
+				"south": {"uv": [9, 7.5, 12, 8], "texture": "#sickle"},
+				"west": {"uv": [9, 7.5, 9.5, 8], "texture": "#sickle"},
+				"up": {"uv": [9, 8, 12, 7.5], "texture": "#sickle"},
+				"down": {"uv": [9, 7.5, 12, 8], "texture": "#sickle"}
+			}
+		},
+		{
+			"name": "sickle5",
+			"from": [10, 8.5, 7.75],
+			"to": [12, 9, 8.25],
+			"faces": {
+				"north": {"uv": [12, 7, 10, 7.5], "texture": "#sickle"},
+				"east": {"uv": [12, 7, 11.5, 7.5], "texture": "#sickle"},
+				"south": {"uv": [10, 7, 12, 7.5], "texture": "#sickle"},
+				"west": {"uv": [10, 7, 10.5, 7.5], "texture": "#sickle"},
+				"up": {"uv": [10, 7.5, 12, 7], "texture": "#sickle"},
+				"down": {"uv": [10, 7, 12, 7.5], "texture": "#sickle"}
+			}
+		},
+		{
+			"name": "sickle6",
+			"from": [10.5, 9, 7.75],
+			"to": [12.5, 9.5, 8.25],
+			"faces": {
+				"north": {"uv": [12.5, 6.5, 10.5, 7], "texture": "#sickle"},
+				"east": {"uv": [12.5, 6.5, 12, 7], "texture": "#sickle"},
+				"south": {"uv": [10.5, 6.5, 12.5, 7], "texture": "#sickle"},
+				"west": {"uv": [10.5, 6.5, 11, 7], "texture": "#sickle"},
+				"up": {"uv": [10.5, 7, 12.5, 6.5], "texture": "#sickle"},
+				"down": {"uv": [10.5, 6.5, 12.5, 7], "texture": "#sickle"}
+			}
+		},
+		{
+			"name": "sickle7",
+			"from": [11, 9.5, 7.75],
+			"to": [12.5, 10.5, 8.25],
+			"faces": {
+				"north": {"uv": [12.5, 5.5, 11, 6.5], "texture": "#sickle"},
+				"east": {"uv": [12.5, 5.5, 12, 6.5], "texture": "#sickle"},
+				"south": {"uv": [11, 5.5, 12.5, 6.5], "texture": "#sickle"},
+				"west": {"uv": [11, 5.5, 11.5, 6.5], "texture": "#sickle"},
+				"up": {"uv": [11, 6, 12.5, 5.5], "texture": "#sickle"},
+				"down": {"uv": [11, 6, 12.5, 6.5], "texture": "#sickle"}
+			}
+		},
+		{
+			"name": "sickle8",
+			"from": [11.5, 10.5, 7.75],
+			"to": [13, 12.5, 8.25],
+			"faces": {
+				"north": {"uv": [13, 3.5, 11.5, 5.5], "texture": "#sickle"},
+				"east": {"uv": [13, 3.5, 12.5, 5.5], "texture": "#sickle"},
+				"south": {"uv": [11.5, 3.5, 13, 5.5], "texture": "#sickle"},
+				"west": {"uv": [11.5, 3.5, 12, 5.5], "texture": "#sickle"},
+				"up": {"uv": [11.5, 4, 13, 3.5], "texture": "#sickle"},
+				"down": {"uv": [11.5, 5, 13, 5.5], "texture": "#sickle"}
+			}
+		},
+		{
+			"name": "sickle9",
+			"from": [11, 12.5, 7.75],
+			"to": [12.5, 13.5, 8.25],
+			"faces": {
+				"north": {"uv": [12.5, 2.5, 11, 3.5], "texture": "#sickle"},
+				"east": {"uv": [12.5, 2.5, 12, 3.5], "texture": "#sickle"},
+				"south": {"uv": [11, 2.5, 12.5, 3.5], "texture": "#sickle"},
+				"west": {"uv": [11, 2.5, 11.5, 3.5], "texture": "#sickle"},
+				"up": {"uv": [11, 3, 12.5, 2.5], "texture": "#sickle"},
+				"down": {"uv": [11, 3, 12.5, 3.5], "texture": "#sickle"}
+			}
+		},
+		{
+			"name": "sickle10",
+			"from": [10.5, 13.5, 7.75],
+			"to": [12.5, 14, 8.25],
+			"faces": {
+				"north": {"uv": [12.5, 2, 10.5, 2.5], "texture": "#sickle"},
+				"east": {"uv": [12.5, 2, 12, 2.5], "texture": "#sickle"},
+				"south": {"uv": [10.5, 2, 12.5, 2.5], "texture": "#sickle"},
+				"west": {"uv": [10.5, 2, 11, 2.5], "texture": "#sickle"},
+				"up": {"uv": [10.5, 2.5, 12.5, 2], "texture": "#sickle"},
+				"down": {"uv": [10.5, 2, 12.5, 2.5], "texture": "#sickle"}
+			}
+		},
+		{
+			"name": "sickle11",
+			"from": [10, 14, 7.75],
+			"to": [12, 14.5, 8.25],
+			"faces": {
+				"north": {"uv": [12, 1.5, 10, 2], "texture": "#sickle"},
+				"east": {"uv": [12, 1.5, 11.5, 2], "texture": "#sickle"},
+				"south": {"uv": [10, 1.5, 12, 2], "texture": "#sickle"},
+				"west": {"uv": [10, 1.5, 10.5, 2], "texture": "#sickle"},
+				"up": {"uv": [10, 2, 12, 1.5], "texture": "#sickle"},
+				"down": {"uv": [10, 1.5, 12, 2], "texture": "#sickle"}
+			}
+		},
+		{
+			"name": "sickle12",
+			"from": [7, 14.5, 7.75],
+			"to": [12, 15, 8.25],
+			"faces": {
+				"north": {"uv": [12, 1, 7, 1.5], "texture": "#sickle"},
+				"east": {"uv": [12, 1, 11.5, 1.5], "texture": "#sickle"},
+				"south": {"uv": [7, 1, 12, 1.5], "texture": "#sickle"},
+				"west": {"uv": [7, 1, 7.5, 1.5], "texture": "#sickle"},
+				"up": {"uv": [7, 1.5, 12, 1], "texture": "#sickle"},
+				"down": {"uv": [7, 1, 12, 1.5], "texture": "#sickle"}
+			}
+		},
+		{
+			"name": "sickle13",
+			"from": [5, 15, 7.75],
+			"to": [11.5, 15.5, 8.25],
+			"faces": {
+				"north": {"uv": [11.5, 0.5, 5, 1], "texture": "#sickle"},
+				"east": {"uv": [11.5, 0.5, 11, 1], "texture": "#sickle"},
+				"south": {"uv": [5, 0.5, 11.5, 1], "texture": "#sickle"},
+				"west": {"uv": [5, 0.5, 5.5, 1], "texture": "#sickle"},
+				"up": {"uv": [5, 1, 11.5, 0.5], "texture": "#sickle"},
+				"down": {"uv": [5, 0.5, 11.5, 1], "texture": "#sickle"}
+			}
+		},
+		{
+			"name": "sickle14",
+			"from": [3, 15.5, 7.75],
+			"to": [10.5, 16, 8.25],
+			"faces": {
+				"north": {"uv": [10.5, 0, 3, 0.5], "texture": "#sickle"},
+				"east": {"uv": [10.5, 0, 10, 0.5], "texture": "#sickle"},
+				"south": {"uv": [3, 0, 10.5, 0.5], "texture": "#sickle"},
+				"west": {"uv": [3, 0, 3.5, 0.5], "texture": "#sickle"},
+				"up": {"uv": [3, 0.5, 10.5, 0], "texture": "#sickle"},
+				"down": {"uv": [3, 0, 10.5, 0.5], "texture": "#sickle"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 1.75, 1],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-90, -90, 45],
+			"translation": [-10.25, -1.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 15],
+			"translation": [0, 0, -6]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.0001, 0.0001, 0.0001]
+		},
+		"ground": {
+			"rotation": [-90, 0, 90],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [0, 0, -45],
+			"translation": [-1, -1.25, 0]
+		},
+		"head": {
+			"scale": [0.0001, 0.0001, 0.0001]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

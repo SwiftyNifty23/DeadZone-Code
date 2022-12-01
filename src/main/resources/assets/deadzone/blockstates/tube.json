@@ -1,0 +1,19 @@
+{
+	"variants": {
+		"facing=north": {
+			"model": "deadzone:tube",
+			"y": 270
+		},
+		"facing=south": {
+			"model": "deadzone:tube",
+			"y": 90
+		},
+		"facing=east": {
+			"model": "deadzone:tube"
+		},
+		"facing=west": {
+			"model": "deadzone:tube",
+			"y": 180
+		}
+	}
+}

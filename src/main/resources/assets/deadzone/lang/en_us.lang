@@ -1,0 +1,154 @@
+itemGroup.tabmedical=DeadZone - Medical
+itemGroup.tabmelee=DeadZone - Melee Weapons
+itemGroup.tabfood=DeadZone - Foods
+itemGroup.tabitems=DeadZone - Items
+itemGroup.tabblocks=DeadZone - Blocks
+itemGroup.tabprops=DeadZone - Props
+itemGroup.tabitems=DeadZone - Items
+itemGroup.modularwarfareTab=DeadZone - Guns
+itemGroup.armorstab=DeadZone - Armors
+itemGroup.mwattach=DeadZone - Attachments
+itemGroup.mwammo=DeadZone - Ammo
+
+
+#Health Items
+item.painkillers_bottle.name=Painkillers Bottle
+item.empty_syringe.name=Empty Syringe
+item.dirty_rag.name=Dirty Rag
+item.antibiotics.name=Antibiotics
+item.aspirine.name=Aspirine
+item.clean_rag.name=Clean Rag
+item.morphine.name=Morphine Syringe
+item.first_aid_kit.name First Aid Kit
+item.militarybandage.name=Military Bandage
+item.painkillers_box.name=Painkillers Box
+item.military_first_aid_kit.name=Military First Aid Kit
+item.bloodbag.name=Blood Bag
+item.bandage.name=Bandage
+item.cure_syringe.name=Cure Syringe
+
+
+#Food
+item.rice.name=Rice Bag
+item.applegreen.name=Green Apple
+item.banana.name=Banana
+item.beans.name=Canned Beans
+item.purpleberrys.name=Purple Berries
+item.orangeberrys.name=Orange Berries
+item.burger.name=Cheese Burger
+item.cakepiece.name=Piece of Cake
+item.cereals.name=Box of Cereal
+item.cherrys.name=Cherries
+item.chips.name=Bag of Chips
+item.chocolate.name=Chocolate Bar
+item.coffebag.name=Coffee Bag
+item.cupcake.name=Cup Cake
+item.dogfood.name=Canned Dog food
+item.fish_in_souse.name=Canned fish
+item.jerky.name=Bag of Jerky
+item.mandarine.name=Grape Fruit
+item.mauo.name=Mayo
+item.military_mre.name=Military MRE
+item.mre.name-MRE
+item.orange.name=Orange
+item.peanut.name=Bag of Peanuts
+item.pear.name=Pear
+item.pepper.name=Pepper
+item.pomjuice.name=Pom Juice
+item.pumkinpie.name=Pumpkin Pie
+item.rice_pack.name=Box of Rice
+item.sandwich.name=Sandwich
+item.sausage.name=Sausage
+item.suger_pack.name=Box of Suger
+item.teabag.name=Tea Bag
+
+
+
+#Throwables
+item.grenade.name=Grenade
+item.smoke.name=Smoke
+item.molotov.name=Molotov
+
+
+#Items
+item.money.name=Money
+item.tape.name=Tape
+item.oak_wood.name=Oak Wood
+item.birch_wood.name=Birch Wood
+item.foil.name=Foil
+
+
+#Entitys
+entity.zombie.name=DeadZone Zombie
+entity.crawler.name=DeadZone Zombie Crawler
+entity.runner.name=DeadZone Zombie Runner
+
+
+#Melee Weapons
+item.item_sickle.name=Sickle
+item.item_sledge_hammer.name=Sledge Hammer
+item.item_machete.name=Machete
+item.item_lead_pipe.name=Lead Pipe
+item.item_rench.name=Wrench
+item.item_vikings_axe.name=Vikings Axe
+item.item_shovel.name=Shovel
+item.item_fire_axe.name=Fire Axe
+item.item_bat.name=Baseball Bat
+item.item_bat_nailed.name= Baseball Bat Nailed
+
+#Props
+tile.storeshelf.name=Store Shelf
+tile.steelbeem.name=Steel Beam
+tile.box_grapes.name=Box of Grapes
+tile.box_oranges.name=Box of Oranges
+tile.box_peaches.name=Box of Peaches
+tile.box_plums.name=Box of Plums
+tile.box_tangerines.name=Box of Tangerines
+tile.firewood.name=Fire Wood
+tile.body_bag_black.name=Black Body Bag
+tile.body_bag_white.name=White Body Bag
+tile.body_bag_yellow.name=Yellow Body Bag
+tile.firepit.name=Fire Pit
+tile.military_crate.name=Military Crate
+tile.lp_gas_cylinder.name=Gas Cylinders
+tile.camppicnictable.name=Camp Picnic Table
+tile.picnictable.name=Picnic Table
+tile.logs.name=Logs
+tile.trash.name=Trash
+tile.trash2.name=Trash 2
+tile.trash3.name=Trash 3
+
+
+#Blocks
+tile.block_barbed.name=Barbed Wire
+tile.bluehazard.name=Blue Hazard
+tile.brownbrickbrocken.name=Broken Brown Brick
+tile.brownbrickcracked.name=Cracked Brown Brick
+tile.brownbricknormal.name=Brown Brick
+tile.darkredbrickbroken.name=Broken Dark Red Brick
+tile.darkredbrickcracked.name=Cracked Dark Red Brick
+tile.darkredbricknormal.name=Dark Red Brick
+tile.redbrickbroken.name=Broken Red Brick
+tile.redbrickcracked.name=Cracked Red Brick
+tile.redbricknormal.name=Red Brick
+tile.redblackhazard.name=Red & Black Hazard
+tile.redwhitehazard.name=Red & White Hazard
+tile.yellowhazard.name=Yellow Hazard
+
+#Menu/Gui Elements
+gui.button.discord=DISCORD
+gui.button.website=WEBSITE
+gui.button.play=PLAY
+gui.button.multiplayer=COMMUNITY SERVERS
+gui.button.singleplayer=SINGLEPLAYER
+gui.button.community=OFFICAL SERVERS
+gui.button.settings=SETTINGS
+gui.button.quit=QUIT
+gui.button.news=NEWS
+
+#Menu Titles
+gui.title.mainmenu=Main Menu
+
+#Menu Subtitles
+gui.server.us=US Servers
+gui.server.eu=EU Servers

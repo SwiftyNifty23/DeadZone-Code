@@ -1,0 +1,6 @@
+{
+  "parent": "block",
+  "textures": {
+    "cross": "deadzone:models/blocks/gravel"
+  }
+}

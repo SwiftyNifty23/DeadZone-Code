@@ -1,0 +1,15 @@
+{
+    "animation": {},
+    "ctm": {
+        "ctm_version": 1,
+        "layer": "TRANSLUCENT",
+        "type": "normal",
+        "textures": [
+        ],
+        "extra": {
+            "connect_to": [
+            ],
+            "light": 0
+        }
+    }
+}

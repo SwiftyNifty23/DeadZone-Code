@@ -1,0 +1,6 @@
+{
+   "parent": "item/generated",
+   "textures": {
+    "parent": "deadzone:items/storeshelf"
+    }
+}

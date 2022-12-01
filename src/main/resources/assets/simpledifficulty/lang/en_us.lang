@@ -1,0 +1,21 @@
+
+effect.thirsty=Thirsty
+
+fluid.purifiedwater=Purified Water
+
+itemGroup.tabSimpleDifficulty=Erangel - Drinkables 
+
+item.simpledifficulty:canteen.name=Canteen
+item.simpledifficulty:item_water.name=Water Bottle
+item.simpledifficulty:pepsi.name=Papsi
+item.simpledifficulty:cola.name=Dead Cola
+item.simpledifficulty:beer_can.name=Beer Can
+item.simpledifficulty:beer_bottle.name=Beer Bottle
+item.simpledifficulty:berry_soda.name=Berry Soda
+item.simpledifficulty:bottle_coffee.name=Bottle Of Coffee
+item.simpledifficulty:bottle_tea.name=Bottle Of Tea
+item.simpledifficulty:can_chamomiletea.name=Chamomile Tea
+item.simpledifficulty:can_coffee.name=Can of Coffee
+item.simpledifficulty:can_tea.name=Can of Tea
+item.simpledifficulty:can_water.name=Can of Water
+item.simpledifficulty:drpepper_bottle.name=Dr Papper

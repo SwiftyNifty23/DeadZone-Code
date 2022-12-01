@@ -1,0 +1,57 @@
+{  
+    "entity.zombie.idle2":
+    {
+        "category": "entity",
+        "subtitle": "Zombie Growl",
+        "sounds": [{ "name": "deadzone:entity/drzombie/say1", "stream": false}]
+    },
+	
+    "mob.human.heartbeat":
+    {
+        "category": "player",
+        "subtitle": "infectionheartbeat",
+        "sounds": [{ "name": "relived:human/heartbeat", "stream": false}]
+    },
+
+    "entity.zombie.death":
+    {
+        "category": "entity",
+        "subtitle": "infectionheartbeat",
+        "sounds": [{ "name": "deadzone:entity/drzombie/death", "stream": true}]
+    },		
+	
+    "entity.zombie.idle3":
+    {
+        "category": "entity",
+        "subtitle": "Zombie Growl",
+        "sounds": [{ "name": "deadzone:entity/drzombie/say2", "stream": false}]
+    },
+    
+    "entity.zombie.idle4":
+    {
+        "category": "entity",
+        "subtitle": "Zombie Growl",
+        "sounds": [{ "name": "deadzone:entity/drzombie/say3", "stream": false}]
+    },
+    
+    "entity.zombie.hurt1":
+    {
+        "category": "entity",
+        "subtitle": "Zombie Screech",
+        "sounds": [{ "name": "deadzone:entity/drzombie/smash1", "stream": false}]
+    },
+    
+    "entity.zombie.hurt2":
+    {
+        "category": "entity",
+        "subtitle": "Zombie Screech",
+        "sounds": [{ "name": "deadzone:entity/drzombie/smash2", "stream": false}]
+    },
+    
+    "entity.zombie.hurt3":
+    {
+        "category": "entity",
+        "subtitle": "Zombie Screech",
+        "sounds": [{ "name": "deadzone:entity/drzombie/smash3", "stream": false}]
+    }
+}
